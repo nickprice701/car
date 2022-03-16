@@ -1,0 +1,37 @@
+
+
+section {
+    width: 1000px;
+    height: 1000px;
+}
+
+p {
+    color: black;
+    background-color: lightgray;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.intro_paragraph {
+    color: blue;
+    float: right;
+    clear: left;
+
+}
+
+#testing {
+    color: orange;
+    position: sticky;
+    top: 600x;
+
+}
+#wrx_image{
+    width: 80%;
+    height: 50%;
+    border: 8px solid gold;
+    border-radius: 10%;
+    margin: 10%;
+    background-color: blueviolet;
+
+
+}
